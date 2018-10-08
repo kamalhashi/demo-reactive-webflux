@@ -1,0 +1,7 @@
+#Monodb Configuration
+spring:
+  data:
+    mongodb:
+      database: local
+      host: localhost
+      port: 27017
